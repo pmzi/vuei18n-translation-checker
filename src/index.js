@@ -1,3 +1,3 @@
-export default function vuei18NTranslationChecker() {
+import checker from './checker'
 
-}
+export default checker
