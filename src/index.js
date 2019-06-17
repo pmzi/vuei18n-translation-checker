@@ -1,3 +1,5 @@
-import checker from './checker'
+import duplicationChecker from './duplicationChecker'
 
-export default checker
+export default {
+  duplicationChecker
+}
